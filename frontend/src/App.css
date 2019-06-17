@@ -1,0 +1,41 @@
+.image {
+  width: 64px;
+  height: 64px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 40%;
+}
+
+.margin {
+  margin-top: 30px;
+}
+
+.player {
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+.button-create {
+  margin-left: 70px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #CD853F;
+  border-color: #CD853F;
+}
+
+.button-group {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox {
+  font-weight: bold;
+}

@@ -1,1 +1,1 @@
-# WyzwaniaSpoleczenstwaInformacyjnego- Projekt: Balicki Dawid, Cymbalista Maciej, Kotowski Tomasz
+# Wyzwania Spoleczenstwa Informacyjnego- Projekt: Balicki Dawid, Cymbalista Maciej, Kotowski Tomasz
